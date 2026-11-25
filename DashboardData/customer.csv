@@ -1,0 +1,16 @@
+﻿CustomerID,CustomerName,ZipCode,LastOrderChannel
+1,Demo Customer 01,02215,Delivery
+2,Demo Customer 02,02129,Delivery
+3,Demo Customer 03,02145,Delivery
+4,Demo Customer 04,02147,Delivery
+5,Demo Customer 05,02148,Delivery
+6,Demo Customer 06,02215,Delivery
+7,Demo Customer 07,02129,Delivery
+8,Demo Customer 08,02129,Delivery
+9,Demo Customer 09,02145,Delivery
+10,Demo Customer 10,02147,Delivery
+11,Demo Customer 11,02148,Dine-in
+12,Demo Customer 12,02215,Delivery
+13,Demo Customer 13,02129,Dine-in
+14,Demo Customer 14,02147,Dine-in
+15,Demo Customer 15,02129,Delivery

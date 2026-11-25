@@ -1,0 +1,16 @@
+﻿CustomerID,RestaurantID,FeedbackDescription,FoodRating,ServiceRating
+1,1,Synthetic review for demo order 01.,3,4
+2,2,Synthetic review for demo order 02.,4,4
+3,3,Synthetic review for demo order 03.,4,5
+4,4,Synthetic review for demo order 04.,5,4
+5,5,Synthetic review for demo order 05.,4,4
+6,6,Synthetic review for demo order 06.,3,3
+7,7,Synthetic review for demo order 07.,4,3
+8,8,Synthetic review for demo order 08.,3,3
+9,9,Synthetic review for demo order 09.,1,1
+10,10,Synthetic review for demo order 10.,5,5
+11,11,Synthetic review for demo order 11.,4,3
+12,12,Synthetic review for demo order 12.,2,4
+13,13,Synthetic review for demo order 13.,3,5
+14,14,Synthetic review for demo order 14.,5,3
+15,15,Synthetic review for demo order 15.,1,2
