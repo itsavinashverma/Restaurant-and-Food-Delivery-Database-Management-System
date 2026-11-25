@@ -64,5 +64,6 @@ The SQL views expose a restaurant directory, daily wastage audit rows, lifetime 
 The Tableau workbook is an optional snapshot report over restaurant, wastage, review, and customer-count data. It is not a live SQL Server dashboard and does not include order or delivery KPIs. A refresh requires the packaged, sanitized source extracts documented alongside the workbook. Compare dashboard metrics to the SQL views and procedures after changing seed data; the workbook is not part of the SQL install.
 
 The revised design document, technical report, and dashboard report PDFs are included in the repository. `Documentation/build_project_pdfs.py` regenerates them from the current schema and snapshot data.
-#   R e s t a u r a n t - a n d - F o o d - D e l i v e r y - D a t a b a s e - M a n a g e m e n t - S y s t e m  
+#   R e s t a u r a n t - a n d - F o o d - D e l i v e r y - D a t a b a s e - M a n a g e m e n t - S y s t e m 
+ 
  
